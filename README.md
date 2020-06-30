@@ -44,4 +44,5 @@ ___
 * Matplotlib
 * TorchFussion
 
-
+References
+https://github.com/Avid2018/Fire-Smoke-Dataset
