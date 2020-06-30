@@ -44,6 +44,4 @@ ___
 * Matplotlib
 * TorchFussion
 
-### References
-___
-* [Kaiming H. et al, Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385 )
+
